@@ -33,3 +33,13 @@ Include songs here if it is questionable whether they were actually released und
 | Megurine Luka | Crypton Future Media Inc.  | CC-BY-NC 3.0 | https://piapro.net/intl/en_for_creators.html |
 | KAITO | Crypton Future Media Inc.  | CC-BY-NC 3.0 | https://piapro.net/intl/en_for_creators.html |
 | MEIKO | Crypton Future Media Inc.  | CC-BY-NC 3.0 | https://piapro.net/intl/en_for_creators.html |
+
+## Websites
+
+| Title | License | Notes |
+| ---- | ------- | ------- |
+| [Effective Altruism Forum](https://forum.effectivealtruism.org/) | CC-BY 4.0 | [Posts published since 2022-12-01](https://forum.effectivealtruism.org/posts/KK6AE8HzPkR2KnqSg/new-forum-license-creative-commons) are licensed by their creators under CC-BY. |
+| [National Employment Law Project](https://www.nelp.org/) | CC-BY-SA 4.0 | Text content only |
+| [Wikipedia](https://en.wikipedia.org/wiki/Main_Page) | CC-BY-SA 4.0 and GFDL 1.3 | The granddaddy of CC-licensed media. Text content only; images and media may be released under other free licenses or used under a fair use exception |
+| [Open Philanthropy](https://www.openphilanthropy.org/) | CC-BY-NC 4.0 | Only text and images owned by Open Philanthropy |
+| [ProPublica](https://www.propublica.org/) | CC-BY-NC-ND 3.0 United States | See "[Steal Our Stories](https://www.propublica.org/steal-our-stories/)" |
